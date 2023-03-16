@@ -1,0 +1,44 @@
+2023-03-05 12:49:56,769 This will get logged
+2023-03-05 12:52:13,098 This will get logged
+2023-03-05 12:53:57,066 This will get logged2
+2023-03-05 13:01:19,913 crear_usuario
+2023-03-05 13:02:33,609 eliminar_usuario
+2023-03-05 13:04:05,985 Funcion: crear_usuario
+2023-03-05 13:06:40,897 Funcion: crear_usuario
+2023-03-05 13:07:33,000 Funcion: eliminar_usuario
+2023-03-05 13:07:33,001 Argumentos: 
+2023-03-05 13:08:10,840 Funcion: crear_usuario
+2023-03-05 13:08:10,841 Argumentos: 
+2023-03-05 13:08:16,464 Funcion: eliminar_usuario
+2023-03-05 13:08:16,464 Argumentos: 
+2023-03-05 13:08:18,296 Funcion: eliminar_usuario
+2023-03-05 13:08:18,296 Argumentos: 
+2023-03-05 13:09:02,873 Funcion: crear_usuario
+2023-03-05 13:09:22,313 Funcion: crear_usuario
+2023-03-05 13:09:22,313 Argumentos: (<modelo.ABMU object at 0x000001312004C1F0>, (123, 124, 'asd', 'asd', 'asd', 1, 'CABA'))
+2023-03-05 13:10:03,408 Funcion: eliminar_usuario
+2023-03-05 13:10:03,408 Argumentos: (<modelo.BSE object at 0x00000222836A7670>, <tkinter.ttk.Treeview object .!ctkframe2.!treeview>, <customtkinter.windows.widgets.ctk_label.CTkLabel object .!ctkframe.!ctklabel2>)
+2023-03-05 13:41:23,870 Funcion: crear_usuario
+2023-03-05 13:41:23,871 Argumentos: (<modelo.ABMU object at 0x000001A941DE2940>, <observador.ConcreteObserverA object at 0x000001A941DE20D0>)
+2023-03-05 13:41:26,998 Funcion: crear_usuario
+2023-03-05 13:41:26,999 Argumentos: (<modelo.ABMU object at 0x000001A94560F430>, <observador.ConcreteObserverA object at 0x000001A94560F6D0>)
+2023-03-05 13:41:34,957 Funcion: crear_usuario
+2023-03-05 13:41:34,957 Argumentos: (<modelo.ABMU object at 0x000001A94560F430>, (135613, 135614, 'asdasdasdas', 'asdasdasdas', 'qweqwe', 1, 'CABA'))
+2023-03-05 13:43:03,476 Funcion: crear_usuario
+2023-03-05 13:43:03,477 Argumentos: (<modelo.ABMU object at 0x000001E6F0130940>, <observador.ConcreteObserverA object at 0x000001E6F01300D0>)
+2023-03-05 13:43:04,785 Funcion: crear_usuario
+2023-03-05 13:43:04,785 Argumentos: (<modelo.ABMU object at 0x000001E6F3947B20>, <observador.ConcreteObserverA object at 0x000001E6F3947E20>)
+2023-03-05 13:43:13,909 Funcion: crear_usuario
+2023-03-05 13:43:13,909 Argumentos: (<modelo.ABMU object at 0x000001E6F3947B20>, (24121, 24122, 'asdasd', 'asda', 'sd', 1, 'CABA'))
+2023-03-05 13:43:40,786 Funcion: crear_usuario
+2023-03-05 13:43:40,786 Argumentos: (<modelo.ABMU object at 0x000001F543C70940>, <observador.ConcreteObserverA object at 0x000001F543C700D0>)
+2023-03-05 13:44:35,500 Funcion: crear_usuario
+2023-03-05 13:44:35,501 Argumentos: (<modelo.ABMU object at 0x000002141D6A0940>, <observador.ConcreteObserverA object at 0x000002141D6A00D0>)
+2023-03-05 13:44:46,582 Funcion: crear_usuario
+2023-03-05 13:44:46,582 Argumentos: (<modelo.ABMU object at 0x000002423D7B1940>, <observador.ConcreteObserverA object at 0x000002423D7B10D0>)
+2023-03-05 13:48:03,837 Funcion: crear_usuario
+2023-03-05 13:48:03,837 Argumentos: (<modelo.ABMU object at 0x000002361FF671F0>, (124121, 124122, 'asdasd', 'asd', 'asd', 1, 'CABA'))
+2023-03-05 13:48:35,037 Funcion: crear_usuario
+2023-03-05 13:48:35,037 Argumentos: (<modelo.ABMU object at 0x0000023983824760>, (124, 125, 'zxc', 'zxc', 'zxc', 1, 'CABA'))
+2023-03-05 13:49:19,245 Funcion: crear_usuario
+2023-03-05 13:49:19,245 Argumentos: (<modelo.ABMU object at 0x0000021B7DB660D0>, (1254, 1255, 'zxc', 'zxc', 'zxc', 1, 'CABA'))
