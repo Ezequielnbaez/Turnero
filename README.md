@@ -31,4 +31,4 @@ En este caso si va a dejar seleccionar y eliminar. Si se aprieta en Seleccionar,
 3-Modificar afiliado: Una vez seleccionado el afiliado, la opción de modificar se verá habilitada. No se pueden modificar los datos si no se aprieta en el botón de “Modificar afiliado”, una vez clickeado se habilitarán las celdas para poder hacer la correspondiente modificación y aparecerá el botón de “Aceptar modificación”
 
 
-
+EL PDF CUENTA CON IMÁGENES PARA UN ENTENDIMIENTO MÁS ILUSTRATIVO
